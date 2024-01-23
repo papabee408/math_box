@@ -4,5 +4,3 @@ def add(a, b):
 
 def substract(a, b):
     return a-b
-
-    
